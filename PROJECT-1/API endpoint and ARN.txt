@@ -1,3 +1,0 @@
-API ENDPOINT : https://s0270a3vn3.execute-api.ap-south-1.amazonaws.com/dev
-
-ARN : arn:aws:dynamodb:ap-south-1:732655218431:table/powerdatabase
